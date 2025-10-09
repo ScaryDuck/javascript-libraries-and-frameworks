@@ -1,0 +1,39 @@
+.splide__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.splide {
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.splide__slide__container img {
+    height: 400px;
+    object-fit: contain;
+    object-position: 50% 50%;
+}
+
+h1{
+    text-align: center;
+    font-size: px;
+    color: rgb(60, 180, 255);
+    margin-bottom: 66px;
+}
+
+body {
+ background-color: rgb(210, 238, 255);
+}
+
+.splide__track {
+    border: 6px solid black;
+    background-color: black;
+}
+
+img{
+    border-radius: 20px;
+}
