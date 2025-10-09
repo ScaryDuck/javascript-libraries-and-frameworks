@@ -7,6 +7,10 @@ h1 {
     font-family: "Style Rustique", sans-serif;
 }
 
+a {
+  text-decoration: underline;
+}
+
 .slado-text {
   font-family: "Slabo 27px", serif;
   font-weight: 400;
